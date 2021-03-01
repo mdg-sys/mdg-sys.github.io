@@ -101,7 +101,7 @@ button::-moz-focus-inner {
   padding: 0;
 }
 @font-face {
-  font-family: FontAwesome "ＭＳ Ｐゴシック";
+  font-family: sans-serif;
   font-style: normal;
   font-weight: normal;
   src: url("fonts/fontawesome-webfont.eot?v=#4.0.3");
@@ -189,7 +189,7 @@ h6 a:hover {
 }
 pre,
 code {
-  font-family: "Source Code Pro", Consolas, Monaco, Menlo, Consolas, "DejaVu Sans Mono", monospace;
+  font-family: sans-serif;
   font-size: 1em;
 }
 .left,
@@ -213,7 +213,7 @@ code {
 }
 .entry-content .gist .gist-file {
   border: none;
-  font-family: inherit;
+  font-family: sans-serif;
   margin: 0;
   font-size: 0.9em;
 }
@@ -223,7 +223,7 @@ code {
 }
 .entry-content .gist .gist-file .gist-data pre {
   padding: 0 !important;
-  font-family: "Source Code Pro", Consolas, Monaco, Menlo, Consolas, "DejaVu Sans Mono", monospace;
+  font-family: sans-serif;
 }
 .entry-content .gist .gist-file .gist-meta {
   background: none;
@@ -447,7 +447,7 @@ pre .deletion {
   color: #33a6b8;
 }
 .nav-icon {
-  font-family: FontAwesome;
+  font-family: sans-serif;
   text-align: center;
   font-size: 100%;
   width: 100%;
@@ -674,7 +674,7 @@ pre .deletion {
   padding: 10px 0;
 }
 .entry-content blockquote {
-  font-family: Georgia, "Times New Roman", "DejaVu Serif", serif;
+  font-family: sans-serif;
   margin: 1.5em 3em;
   padding: 5px 20px;
   border-left: 2px solid #aaa;
@@ -685,7 +685,7 @@ pre .deletion {
 }
 .entry-content blockquote footer {
   font-size: 100%;
-  font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', 'STHeiti', 'WenQuanYi Micro Hei', '微软雅黑', sans-serif;
+  font-family: sans-serif;
 }
 .entry-content blockquote footer cite:before {
   content: "—";
@@ -693,7 +693,7 @@ pre .deletion {
 }
 .entry-content .pullquote {
   border-left: 0;
-  font-family: Georgia, "Times New Roman", "DejaVu Serif", serif;
+  font-family: sans-serif;
   text-align: left;
   width: 45%;
   margin: 10px 0 0 0;
@@ -1134,7 +1134,7 @@ pre .deletion {
   }
   .mb-search input {
     background: #fff;
-    font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', 'STHeiti', 'WenQuanYi Micro Hei', '微软雅黑', sans-serif;
+    font-family: sans-serif;
     font-size: 15px;
     padding: 5px 10px;
     border-bottom: 2px solid #ddd !important;
